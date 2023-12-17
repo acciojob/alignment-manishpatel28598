@@ -13,3 +13,9 @@ td{
 #t13, #t16, #t19{
 	text-align: right;
 }
+#greenrow{
+	background-color: green;
+}
+#bluerow{
+	background-color: blue;
+}
