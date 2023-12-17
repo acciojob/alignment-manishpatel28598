@@ -2,6 +2,7 @@
 .middle{
 	width: 100vw;
 	border: 1px solid black;
+	spacing: 1px;
 }
 td{
 	border: 1px solid black;
@@ -18,4 +19,7 @@ td{
 }
 #bluerow{
 	background-color: blue;
+}
+#t-image{
+	padding-left: 35%;
 }
